@@ -2,6 +2,27 @@
 
 ![](breakdown.jpg)
 
+## 知名企业服务监控页
+截至目前：
+
+- [阿里云](https://status.aliyun.com/)
+- [腾讯云](https://status.cloud.tencent.com/)
+- [华为云](https://status.service.huaweicloud.com/#/home)
+- 百度云：无
+- 天翼云：无
+- [AWS](https://status.aws.amazon.com/)
+- [微软 Azure](https://status.azure.com/zh-cn/status)
+- [谷歌云](https://status.cloud.google.com/)
+- [IBM Cloud](https://cloud.ibm.com/status?selected=status)
+- [DigitalOcean](https://status.digitalocean.com/)
+- [GitHub](https://www.githubstatus.com/)
+- [GitLab](https://status.gitlab.com/)
+
+
+作为一个云服务器厂商，服务健康页展示了他们的监控、管理能力和透明度，每一个厂商都应该有一个服务健康页，最好是https://status.xxx.com的域名形式。。
+
+## 故障列表
+
 - **2024年1月12日凌晨，腾讯旗下多款热门游戏集体掉线**
 
 
